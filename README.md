@@ -1,3 +1,3 @@
 # OpenCart
 
-* Norsk språkpakke - Kopier inn i language mappen og aktiver språket i admin panelet.
+* Norsk språkpakke - Kopier inn i /catalogue/language mappen og aktiver språket i admin panelet.
